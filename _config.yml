@@ -104,8 +104,8 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my activities performed under Gru Industries, further hobbies and interests are:
-      - Poochy (Rat)
-      - Tim (Teddy Bear)
+      - [Poochy](https://despicableme.fandom.com/wiki/Poochy)
+      - Tim ([Teddy Bear](https://despicableme.fandom.com/wiki/Tim_(teddy_bear))
       - Bedtime stories
       - Boss
       - Evil
