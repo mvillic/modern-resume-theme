@@ -9,7 +9,7 @@ version: 2
 name: Minion Bob
 title: Senior Executive for Gru Industies
 email: kingbob@gmail.com
-website: https://www.minionsmovie.com
+website: www.minionsmovie.com
 
 # Dark Mode (true/false/never)
 darkmode: never
@@ -82,7 +82,7 @@ content:
         sub_title: Senior Executive for Gru Industries
         caption: December 1968 - Present
         quote: >
-          Fixing the world one step at at time, by conquering it one step at a time. An art only few can enjoy.
+          Fixing the world one step at at time, by conquering it one step at a time. An art only few individuals can enjoy.
         description: | # this will include new lines to allow paragraphs
             Every company needs its networks properly administered and Gru Industries is certainly no exception. Following orders and being being evil could truly become strenous at times; thus, I am known as a leader to Gru, as well as my fellow minions after finding a boss. I play a major role in this company - comedic relief and leadership.
 
