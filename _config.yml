@@ -22,7 +22,7 @@ github_username:  Bobbie
 # facebook_username: jekyll
 # flickr_username: jekyll
 instagram_username: minionbob_
-linkedin_username: Bob
+linkedin_username: Bob Minion
 # xing_username: jekyll
 # pinterest_username: jekyll
 youtube_username: The Singing Minions
@@ -61,7 +61,7 @@ content:
         link: https://www.youtube.com/watch?v=wd4Oxk11PA0
         # link_text: Project Website
         additional_links:
-          - title: Original Inspirarion
+          - title: Original Inspiration
             icon: fab fa-github
             url: https://www.youtube.com/watch?v=cVpvlaKfLQc
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
@@ -76,11 +76,11 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
+        title: Gru Industries
+        link: https://www.facilitatemagazine.com/sponsors/gru-industries
         # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
+        sub_title: Senior Executive for Gru Industries
+        caption: December 1968 - Present
         quote: >
           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
