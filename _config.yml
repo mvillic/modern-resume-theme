@@ -94,7 +94,7 @@ content:
         caption: 2500 BC - Present
         sub_title: PhD in Villanous subordinate
         quote: >
-          Established 2500 BC Villanous Experiences is only available to those who appear to have immortal souls and are of **Elite** Class - Minions. This institution is regarded as the #1 educational facility for subordinates who pursue the arts of evil due to its influence, reputation, and academic pedigree.
+          Established 2500 BC Villanous Experiences is only available to those who appear to have immortal souls and are of Elite Class - Minions. This institution is regarded as the #1 educational facility for subordinates who pursue the arts of evil due to its influence, reputation, and academic pedigree.
         description: | # this will include new lines to allow paragraphs
           During my time in Villanous experiences I served thousands of mastsers. This ranged from T-Rex to Dracula to Napoleon to Scarlett Overkill. These vast different experiences have offered me guidance on how I should better handle my bosses, as goes to show Gru. The last boss. He has survived nearly 30 years with us as his subordinates. A record.
 
@@ -103,14 +103,16 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      Alongside my activities performed under Gru Industries, further hobbies and interests are:
+      - Poochy (Rat)
+      - Tim (Teddy Bear)
+      - Bedtime stories
+      - Boss
+      - Evil
+      - [Becoming a King](https://www.youtube.com/watch?v=yRTnefB_AWc)
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+     My Current Workplace
+      ![Family](https://data.whicdn.com/images/131350410/original.png "Family")
 
 # Footer
 footer_show_references: true
