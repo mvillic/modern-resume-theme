@@ -9,7 +9,7 @@ version: 2
 name: Bob
 title: Senior Executive for Gru Industies
 email: kingbob@gmail.com
-website: www.github.com/Bob/resume
+website: https://www.illumination.com/movie/minions-the-rise-of-gru/
 
 # Dark Mode (true/false/never)
 darkmode: never
