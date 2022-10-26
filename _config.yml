@@ -9,23 +9,23 @@ version: 2
 name: Bob
 title: Senior Executive for Gru Industies
 email: kingbob@gmail.com
-website: www.github.com/Bob/resume-theme
+website: www.github.com/Bob/resume
 
 # Dark Mode (true/false/never)
 darkmode: never
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+twitter_username: BobAMinion
+github_username:  Bobbie
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+instagram_username: minionbob_
+linkedin_username: Bob
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+youtube_username: The Singing Minions
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
